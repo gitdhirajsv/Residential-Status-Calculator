@@ -47,10 +47,4 @@ Period of stay in 2015-16:- 170
 Result: Ordinarily Resident
 ```
 
-## Author
 
-[Your Name]
-
----
-
-You can customize this template with additional information as needed. Feel free to include information about dependencies, troubleshooting, or any other relevant details for users of your script.
